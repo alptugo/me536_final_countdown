@@ -1,8 +1,8 @@
 # me536_final_countdown
 This is term project for ME536 Design of Intelligent Machine course. It tries to get lattice types classified from STL slice images.
 
-A slide that explains the topic can be found here.
-https://docs.google.com/presentation/d/10Uo8F_Dm4h35ygELFrS2dK_oo3cB4Kviv31DtEW7o00/edit?usp=sharing
+A slide that explains the topic can be found [here](
+https://docs.google.com/presentation/d/10Uo8F_Dm4h35ygELFrS2dK_oo3cB4Kviv31DtEW7o00/edit?usp=sharing).
 
 I started to work with generic STL data from [Princeton Benchmark for 3D Mesh Segmentation](https://www.kaggle.com/datasets/herimor/princeton-benchmark-for-3d-mesh-segmentation]).
 
