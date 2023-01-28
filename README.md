@@ -6,7 +6,7 @@ https://docs.google.com/presentation/d/10Uo8F_Dm4h35ygELFrS2dK_oo3cB4Kviv31DtEW7
 
 I started to work with generic STL data from [Princeton Benchmark for 3D Mesh Segmentation](https://www.kaggle.com/datasets/herimor/princeton-benchmark-for-3d-mesh-segmentation]).
 
-Then, by using the nTopology(.ntop) file found on the root directory and the generator.py file, I systematicaly generated image slices for 14 types of lattice on 400 different mesh.
+Then, by using the nTopology(.ntop) file on the root directory and the generator.py file, I systematicaly generated image slices for 14 types of lattice on 400 different mesh.
 
 Using pattern_catcher_2.py, I acquired texture of images. By clustering according to their singular values, I reduced the number of slices to 4 per STL part.
 
