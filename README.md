@@ -16,4 +16,4 @@ Using lattice_separetor.py, I made new directories for each type of lattice. I p
 
 Colab file contains the CNN and autoencoders used. I contains it's own explanations as well.
 
-
+Directories used in codes are given as .zip files, with the exception of .\images, as its zipped size was around 100mb which exceeded github limit. So it can be found [here](https://drive.google.com/drive/folders/1E2bDis4Pw36flnF3kSGe2ffhahelpzCe?usp=sharing).
